@@ -1,2 +1,2 @@
 # hello-world
-Basic Hello World started code.
+Hello world is important for anyone stating to code. 
